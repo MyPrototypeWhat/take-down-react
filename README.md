@@ -3,7 +3,7 @@ react@v19源码解析
 - [React@v19源码解析]
     - [入口](https://github.com/MyPrototypeWhat/take-down-react/issues/1)
     - [调度任务](https://github.com/MyPrototypeWhat/take-down-react/issues/2)
-    - [TODO][render阶段]()
+    - [render阶段](https://github.com/MyPrototypeWhat/take-down-react/issues/3)
     - [TODO][commit阶段]()
  
 - react相关

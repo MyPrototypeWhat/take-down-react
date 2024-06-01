@@ -12,7 +12,7 @@ react@v19源码解析
       - [useContext](https://github.com/MyPrototypeWhat/take-down-react/issues/7)
       - [use](https://github.com/MyPrototypeWhat/take-down-react/issues/8)
       - [TODO] useTranstion
-    - [Suspense原理](https://github.com/MyPrototypeWhat/take-down-react/issues/9)
+    - [Suspense原理](https://github.com/MyPrototypeWhat/take-down-react/discussions/10)
  
 - react相关
   - [Redux源码解析](https://github.com/MyPrototypeWhat/take-down/issues/6)  
